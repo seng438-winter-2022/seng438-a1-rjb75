@@ -11,9 +11,6 @@
 
 **Table of Contents**
 
-(When you finish writing, update the following list using right click, then
-“Update Field”)
-
 [1 Introduction 1](#_Toc439194677)
 
 [2 High-level description of the exploratory testing plan 1](#_Toc439194678)
@@ -64,7 +61,7 @@ Our team utilized an online group generator to divide the group into 2, thus 2 p
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
-ome of the difficulties we encountered were completing the testing remotely with partners while screen sharing. Since the program window couldn’t be resized it was difficult for the other group members to view the exact behaviour of the program due to the reduced visibility of the program’s interface. Additionally, we noticed some slight differences in the way that the system GUI elements were rendered based on the operating system (i.e. Mac OS vs Windows), which may contribute to additional bugs being reported or certain bugs being missed, depending on how flexible the program was at properly adapting different operating systems.
+Some of the difficulties we encountered were completing the testing remotely with partners while screen sharing. Since the program window couldn’t be resized it was difficult for the other group members to view the exact behaviour of the program due to the reduced visibility of the program’s interface. Additionally, we noticed some slight differences in the way that the system GUI elements were rendered based on the operating system (i.e. Mac OS vs Windows), which may contribute to additional bugs being reported or certain bugs being missed, depending on how flexible the program was at properly adapting different operating systems.
 
 The scripted testing felt very repetitive and it was mildly frustrating having to repeat certain tasks multiple times for some consecutive tasks to evaluate each step of a specific function. For a longer-term project, our group felt it would be more time-efficient to implement automated testing to complete the scripted portion of the testing.
 
